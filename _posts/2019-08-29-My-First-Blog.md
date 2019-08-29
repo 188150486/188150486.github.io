@@ -1,5 +1,7 @@
 ---
 title: My First Blog
+categories:
+ - 随笔
 tags:
 ---
 
