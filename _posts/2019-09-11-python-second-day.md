@@ -4,7 +4,7 @@ categories: python
 tags: python
 ---
 
-看了列表与元组，发现python好像真的比C语言简单很多啊哈哈。   
+Python---列表与元组      
 
 ## 列表与元组   
 列表：可修改，可添加元素   
@@ -37,9 +37,9 @@ del x[i] 删除x列表中第i+1个元素。
 可将切片换为长度不同的序列。    
 
 ```python
-\>\>\>name = list("Perl")
-\>\>\>name[1:] = list("ython")
-\>\>\>name
+name = list("Perl")
+name[1:] = list("ython")
+name   
 ['P','y','t',h'','o','n']
 ```
 
