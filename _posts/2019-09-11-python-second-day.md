@@ -37,10 +37,10 @@ del x[i] 删除x列表中第i+1个元素。
 可将切片换为长度不同的序列。    
 
 ```python
-name = list("Perl")
-name[1:] = list("ython")
-name   
-['P','y','t',h'','o','n']
+>>>name = list("Perl")
+>>>name[1:] = list("ython")
+>>>name   
+>>>['P','y','t',h'','o','n']
 ```
 
 ## 方法   
