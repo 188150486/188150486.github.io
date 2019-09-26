@@ -7,14 +7,14 @@ tags: 随笔
 
 name | 111 |
 :-:  | :-: |
-:rofl:  | ''':rofl:''' |
-:smile:  | ''':smile:''' |
-:smirk:  | ''':smirk:''' |
-:sweat_smile:  | ''':sweat_smile:''' |
-:yum:  | ''':yum:''' |
-:triumph:  | ''':triumph:''' |
-:purple_heart:  | ''':purple_heart:''' |
-:green_heart:  | ''':green_heart:''' |
-:imp:  | ''':imp:''' |
-:sunglasses:  | ''':sunglasses:''' |
-:upside_down_face:  | ''':upside_down_face:''' |
+:rofl:  | ":rofl:" |
+:smile:  | ":smile:" |
+:smirk:  | ":smirk:" |
+:sweat_smile:  | ":sweat_smile:" |
+:yum:  | ":yum:" |
+:triumph:  | ":triumph:" |
+:purple_heart:  | ":purple_heart:" |
+:green_heart:  | ":green_heart:" |
+:imp:  | ":imp:" |
+:sunglasses:  | ":sunglasses:" |
+:upside_down_face:  | ":upside_down_face:" |
