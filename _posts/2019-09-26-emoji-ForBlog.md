@@ -3,7 +3,7 @@ title: emoji For Blog
 categories: 
 tags: 随笔
 ---
-记录几个我喜欢的博客表情：   
+记录几个我喜欢的博客emoji表情：   
 
 表情 | 代码 |
 :-:  | :-: |
